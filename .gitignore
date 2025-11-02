@@ -1,0 +1,12 @@
+.venv/
+env/
+.env
+__pycache__/
+*.py[cod]
+*.zip
+*.h5
+*.pth
+.ipynb_checkpoints/
+data/
+logs/
+*.sqlite3
